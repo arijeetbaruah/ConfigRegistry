@@ -3,9 +3,9 @@
     "version": "1.0.0",
     "description": "Config Registry System for my Unity Engine Game",
     "displayName": "Config Registry System",
-    "documentationUrl": "https://github.com/arijeetbaruah/ConfigRegistry",
+    "documentationUrl": "https://github.com/arijeetbaruah/ConfigRegistry/blob/main/README.md",
     "dependencies": {
-        "com.github.arijeetbaruah.serviceregistry" : "1.0.0"
+        "com.github.arijeetbaruah.serviceregistry": "1.0.0"
     },
     "author": {
         "name": "Arijeet Baruah",
