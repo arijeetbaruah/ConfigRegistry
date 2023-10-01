@@ -1,0 +1,15 @@
+{
+    "name": "com.github.arijeetbaruah.configregistry",
+    "version": "1.0.0",
+    "description": "Config Registry System for my Unity Engine Game",
+    "displayName": "Config Registry System",
+    "documentationUrl": "https://github.com/arijeetbaruah/ConfigRegistry",
+    "dependencies": {
+        "com.github.arijeetbaruah.serviceregistry" : "1.0.0"
+    },
+    "author": {
+        "name": "Arijeet Baruah",
+        "email": "arijeetbaruah@gmail.com",
+        "url": "https://github.com/arijeetbaruah"
+    }
+}
